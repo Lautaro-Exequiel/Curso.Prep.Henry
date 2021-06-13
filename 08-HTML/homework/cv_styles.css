@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+#H1 {
+    border-bottom: solid gray;
+    padding: 5px;
+    max-width: max-content;
+}
+img {
+    height: 250px;
+    width: 250px;
+}
+.Spans {
+    display: block;
+    font-size: larger;
+    margin: 10px;
+    max-width: 600px;
+}
+.H2s {
+    border:solid gray;
+    padding: 5px;
+    max-width: max-content;
+}
+
+
